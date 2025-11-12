@@ -1,6 +1,6 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
-
+zineb el mejdoubi
 ---
 
 # PARTIE 2 : APPRENTISSAGE AUTOMATIQUE ET APPLICATIONS AVANCÉES
